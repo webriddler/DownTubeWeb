@@ -5,7 +5,7 @@
               <li>Using the shared 🔗 link, now you can download </li>
                 <ul>
                 <li>YouTube Video + Shorts</li>
-                <li>Added in v3.1.7 YouTube Music + Spotify Song</li>  
+                <li>Added in v3.1.7 YouTube Music + Spotify Song + Apple Music</li>  
                 </ul>
               <li>100% Free + Unlimited downloads with No Ads 🤯.</li>
               <li>Built with Fast and Safe nature.</li>
